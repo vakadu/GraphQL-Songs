@@ -10,7 +10,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 ```
 > git clone https://github.com/vakadu/GraphQL-Songs.git
-> cd ajax-restful-api
+> cd GraphQL-Songs
 > npm install
 > npm run dev
 ```
